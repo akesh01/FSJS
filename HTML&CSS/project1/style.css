@@ -1,0 +1,65 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+.container {
+    margin-top: 48px;
+    margin-left: 64px;
+    padding: 0; 
+    font-family: poppins;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    font-family: poppins;
+    color: gray;
+    
+}   
+
+.list-item {
+    list-style: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.button-group {
+  align-items: center;
+  display: flex;
+  margin-left: 200px;
+}
+
+.nav-button {
+    padding: 8px 16px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: blueviolet;
+}
+
+.banner-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.heading-text {
+    color:  violet;
+    font-size:80px ;
+}
+
+.heading-text span {
+    color: blueviolet;
+}
+
+.description {
+    color: grey;
+}
+
+.btn {
+    padding: 24px 48px;
+}
