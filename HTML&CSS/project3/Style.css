@@ -1,0 +1,16 @@
+.feature-container {
+    height: 150px;
+    background-color: white;
+    
+}
+.feature-icons{
+    width: 5rem;
+    height: 5rem;
+
+}
+
+.feature-iconContainer {
+    padding:2rem 80px;
+    color :#444 ;
+    
+}
